@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div>
-      <h1>Firebase Auth with Vite</h1>
+      <h1>Firebase Auth</h1>
       {user ? (
         <div>
           <p>Welcome, {user.email}</p>
